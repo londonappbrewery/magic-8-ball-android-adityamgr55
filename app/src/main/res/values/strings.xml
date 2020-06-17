@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="askbutton">Ask</string>
+    <string name="decision">Make Decision Easier With ADITYA APP!!</string>
 </resources>
